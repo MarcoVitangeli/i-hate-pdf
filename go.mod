@@ -1,3 +1,3 @@
 module github.com/MarcoVitangeli/i-hate-pdf
 
-go 1.18
+go 1.19
